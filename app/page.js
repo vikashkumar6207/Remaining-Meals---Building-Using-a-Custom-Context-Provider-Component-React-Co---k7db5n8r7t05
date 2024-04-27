@@ -5,7 +5,7 @@ import Counter from './Counter';
 
 function Home() {
   return (
-    <div id="main">
+    <div id="main"> 
       <MealsProvider>
         <MealsList />
         <Counter />
